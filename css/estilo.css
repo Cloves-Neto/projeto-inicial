@@ -14,6 +14,13 @@
 
     /*Exemplo de seletores*/
 
+    .container{
+        padding: 20px;
+    }
+    .container > *{
+        padding: 20px;
+    } 
+
     /*Seletores de tipo*/
     /* Fonte com serifa */
     h1, h2, h3, h4, h5, h6{
