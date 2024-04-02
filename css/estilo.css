@@ -67,11 +67,11 @@
             text-decoration: none;
             color: #000;
         
-            /*Nesting elements*/
+            /* Nesting elements
             img{
                 display: inline-block;
                 width: 25%;
-            }
+            } */
 
         }
 
