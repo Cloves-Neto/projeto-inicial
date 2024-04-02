@@ -6,9 +6,7 @@
 
 ## TURMA: 1TDSPL
 
-### ALUNO:
+### ALUNO: Cloves Rodrigues
 ```
-- Nome : 
-- Git :
-- Instituição de Ensino :
+- Instituição de Ensino : Fiap Faculdade de Informática e Administração Paulista
 ```
