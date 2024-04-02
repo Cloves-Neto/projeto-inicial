@@ -21,11 +21,13 @@
     }
 
     #cabecalho{
-        background-image: url("../img/img-01-banner-1280×640.png");
+        /* background-image: url("../img/img-01-banner-1280×640.png");
         background-repeat: no-repeat;
         background-size: contain;
         background-position: center;
-        background-size: cover;
+        background-size: cover; */
+
+        background-color: blue;
     }
 
 
@@ -35,16 +37,16 @@
         /* font-size: 24em; */
         /* font-size: 24rem; */
         /* font-size: 24vw; */
-        border: 2px solid #ff0000;
+        border: 2px solid #afe7fff5;
         display: inline-block;
         margin: 0 2%;
-        background-color: rgba(255, 0, 0, 0.200);
+        background-color: rgba(43, 230, 255, 0.582);
         padding: 5px 5px;
         width: 15%;
         transition: all 0.4s  ease-out;
 
         &:hover {
-            background-color: rgba(255, 0, 0, 0.500);
+            background-color: rgba(163, 15, 255, 0.701);
         }
 
         /*Nesting elements*/
